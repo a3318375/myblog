@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>23种Bootstrap导航菜单布局设计jQuery插件|nav-fixed-alt4_jQuery之家-自由分享jQuery、html5、css3的插件库</title>
+<title>主页</title>
 <link href="./resources/bootstrap/css/bootstrap.min.css"
 	rel="stylesheet">
 <link href="./resources/bootstrap/fonts/FontAwesome/font-awesome.css"
